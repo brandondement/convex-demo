@@ -1,0 +1,15 @@
+{
+  "name": "convex-demo",
+  "version": "1.0.0",
+  "description": "proof of concept",
+  "main": "index.js",
+  "dependencies": {
+    "ol": "^4.6.4"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Brandon Dement",
+  "license": "ISC"
+}
